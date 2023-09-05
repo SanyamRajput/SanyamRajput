@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SanyamRajput
 - 👀 I’m interested in :-
--  >robotics
-   >programing
-   >cloud computing
+-  >robotics ,
+   >programing ,    
+   >cloud computing , 
    >networking
 - 🌱 I’m currently learning BTech CSE
 - 📫 How to reach me :- sanyamrajput1213@gmail.com
