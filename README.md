@@ -4,7 +4,10 @@
    >programing ,    
    >cloud computing , 
    >networking
-- 🌱 I’m currently learning BTech CSE
+- 🌱 I’m currently:
+  >computer vision in python
+  >c/c++ and javascript
+  >learning BTech CSE
 - 📫 How to reach me :- sanyamrajput1213@gmail.com
 
 <!---
