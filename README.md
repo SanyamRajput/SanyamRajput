@@ -5,8 +5,9 @@
    >cloud computing , 
    >networking
 - 🌱 I’m currently:
-  >computer vision in python
-  >c/c++ and javascript
+  >computer vision in python,
+  >linux,
+  >c/c++ and javascript,
   >learning BTech CSE
 - 📫 How to reach me :- sanyamrajput1213@gmail.com
 
