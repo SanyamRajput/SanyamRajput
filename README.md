@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @SanyamRajput
+- 👋 Hi, I’m Sanyam Rajput
+  
 - 👀 I’m interested in :-
--  >robotics ,
-   >programing ,    
-   >cloud computing , 
-   >networking
+  >computers
+  >|
+  >mathematics
+
 - 🌱 I’m currently:
-  >python,
-  >c/c++,
-  >learning BTech CSE
+  >machine learning
+  >|
+  >quantum theory
+  >|
+  >mathematics
+  
 - 📫 How to reach me :- sanyamrajput1213@gmail.com
 
 <!---
