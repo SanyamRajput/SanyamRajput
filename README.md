@@ -4,6 +4,8 @@
   >computers
   >|
   >mathematics
+  >|
+  >Rescearch
 
 - 🌱 I’m currently:
   >machine learning
